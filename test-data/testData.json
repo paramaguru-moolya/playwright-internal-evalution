@@ -1,0 +1,10 @@
+{
+  "checkoutDetails": {
+    "firstName": "Guru",
+    "lastName": "Demo",
+    "postalCode": "560001"
+  },
+  "products": {
+    "product1": "Sauce Labs Backpack"
+  }
+}
